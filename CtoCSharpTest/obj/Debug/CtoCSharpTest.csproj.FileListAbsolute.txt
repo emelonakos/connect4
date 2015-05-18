@@ -1,0 +1,9 @@
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.Form1.resources
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.Properties.Resources.resources
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.csproj.GenerateResource.Cache
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\bin\Debug\CtoCSharpTest.exe.config
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\bin\Debug\CtoCSharpTest.exe
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\bin\Debug\CtoCSharpTest.pdb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.exe
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.pdb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.csprojResolveAssemblyReference.cache
