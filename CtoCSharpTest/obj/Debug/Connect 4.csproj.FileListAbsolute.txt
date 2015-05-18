@@ -6,3 +6,4 @@ C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTe
 C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\Connect 4.csproj.GenerateResource.Cache
 C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.exe
 C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\CtoCSharpTest.pdb
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Debug\Connect 4.csprojResolveAssemblyReference.cache

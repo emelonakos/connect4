@@ -341,6 +341,9 @@ namespace CtoCSharpTest
             {
                 choice_column_to_buttons[i].Enabled = true;
             }
+            winning_moves.Clear();
+            move_history.Clear();
+            column_history.Clear();
             gameOn = true;
             make_move(3);
         }
