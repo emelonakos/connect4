@@ -1,0 +1,2 @@
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Release\CtoCSharpTest.Form1.resources
+C:\Users\Charles\Documents\Visual Studio 2013\Projects\CtoCSharpTest\CtoCSharpTest\obj\Release\CtoCSharpTest.csproj.GenerateResource.Cache

@@ -170,12 +170,22 @@ namespace CtoCSharpTest
             int score;
 
             nodes = 0;
+
             if (Game.haswon(Game.color[otherside]))
+            {
                 return TransGame.LOSS;
+            }
+                
             for (i = 0; i < Game.WIDTH; i++)
-            if (Game.islegalhaswon(Game.color[side] | ((ulong)1 << Game.height[i])))
-                return TransGame.WIN;
-            inithistory();
+            {
+                if (Game.islegalhaswon(Game.color[side] | ((ulong)1 << Game.height[i])))
+                {
+                    return TransGame.WIN;
+                }
+            }
+
+                
+            
             reportply = Game.nplies + REPORTPLY;
             bookply = Game.nplies + BOOKPLY;
             score = ab(TransGame.LOSS, TransGame.WIN);
